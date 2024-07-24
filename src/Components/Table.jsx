@@ -10,6 +10,7 @@ import { FaCircleChevronUp } from "react-icons/fa6";
 import USERIMG from './user.jpg';
 import { faAnglesUp } from "@fortawesome/free-solid-svg-icons";
 import { TfiLineDouble } from "react-icons/tfi";
+import React from "react";
 
 function Table({ tableData }) {
 
